@@ -4,6 +4,7 @@ Automatically set up a web server to run on it so that we can handle web traffic
 
 
 #steps
+
 on AWS account, set up new access key
 create vpc
 Create internet gateway
